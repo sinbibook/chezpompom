@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-08-31T01:02:28.146958397Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-09T07:16:52.429135727Z",
     "templateType": "trip_d",
     "propertyId": "4d301add-f3fe-453f-9cba-0181a4c910c0",
     "homepageId": "795d1555-dac3-46c3-a2d6-9052f8c7108a"
@@ -22,13 +22,16 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.\n※ 입실일 하루 전에 체크인 예정시간을 미리 연락 부탁드립니다.",
-    "usageGuide": "- 객실 내 금연이며 고기생선 조리 불가\n- 집기 파손 시 펜션지기에게 알림 필수\n- 퇴실 시 분리수거 및 사용한 주방기구 세척 필수\n- 숲 인접 지역 특성상 벌레 및 낙엽 등이 있을 수 있음\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.\n※ 입실일 하루 전에 체크인 예정시간을 미리 연락 부탁드립니다.\n\n[인원추가요금]\n※ 영유아 (12개월 미만) : 무료이나 인원수에 포함\n※ 객실 요금은 2인 기준이며, 객실 최대 인원을 초과한 인원은 입실하실 수 없습니다.\n\n[개별바베큐]\n- 바베큐 형태:  바베큐그릴+숯\n- 이용 객실: 독채\n- 이용 요금: 2~6인 20,000원 (1박기준/현장결제)\n- 신청 시간: ~19:00\n- 이용 시간: ~23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 6인(소형 냉장고 보유) 이용 가능\n\n[개별수영장]\n- 운영 기간: 26.06.01~26.09.30\n- 이용 요금: 무료\n- 이용 시간: 09:00~19:00\n- 이용 복장: 수영복, 래쉬가드\n- 수영장 크기: 3m x 5m x 1.1m\n※ 수영장 이용 시 여분 타월을 지참해 주시기 바랍니다.\n※ 유아는 방수기저귀 착용 후 입수 가능합니다.\n※ 고객 부주의로 인한 안전사고는 책임지지 않습니다.\n※ 자녀 안전에 특히 유의 바랍니다.\n※ 안전수칙을 준수해 주시기 바랍니다.\n\n[불멍]\n- 이용 장소: 썬룸, 프라이빗 BAR\n- 이용 요금: 20,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n※ 입실 전 요청 필수\n\n[부대시설]\n[썬룸]\n- 썬룸 최대 4인 이용 가능\n※ 벽난로&불멍 이용 가능\n※ 바베큐 이용 가능\n※ 와인랙 구비\n- 프라이빗 BAR] 불멍 가능, 대형 음료냉장고 이용 가능\n- 1인 홈사우나\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 엘레베이터 미보유\n- OTT 이용 가능\n※ 넷플릭스 이용 가능\n※ OTT 개인계정 필요\n\n- 곤지암도자공원 펜션에서 차량 11분\n- 곤지암리조트 펜션에서 차량 18분\n- 화담숲 펜션에서 차량 20분\n- 율봄식물원 펜션에서 차량 25분\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 3대 가능\n- 전기차 충전기 이용 불가\n\n[교통편]\n- 자가용 이용 시\n※ 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 경기도 광주시 초월읍 대쌍령리 432-114\n- 도로명 주소 : 경기도 광주시 초월읍 진새골길 115-17\n\n- 대중교통 이용 시\n- 초월역- 초월역.롯데아파트역- 광주5번 승차- 진새골종점 하차- 도보13분- 펜션도착\n\n- 주변관광지와의 거리\n- 곤지암도자공원 펜션에서 차량 11분\n- 곤지암리조트 펜션에서 차량 18분\n- 화담숲 펜션에서 차량 20분\n- 율봄식물원 펜션에서 차량 25분",
+    "usageGuide": "[공지사항]\n- 객실 내 금연이며 고기생선 조리 불가\n- 집기 파손 시 펜션지기에게 알림 필수\n- 퇴실 시 분리수거 및 사용한 주방기구 세척 필수\n- 숲 인접 지역 특성상 벌레 및 낙엽 등이 있을 수 있음\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.\n※ 입실일 하루 전에 체크인 예정시간을 미리 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영유아 (12개월 미만) : 무료이나 인원수에 포함\n※ 객실 요금은 2인 기준이며, 객실 최대 인원을 초과한 인원은 입실하실 수 없습니다.\n\n[개별바베큐]\n- 바베큐 형태:  바베큐그릴+숯\n- 이용 객실: 독채\n- 이용 요금: 2~6인 20,000원 (1박기준/현장결제)\n- 신청 시간: ~19:00\n- 이용 시간: ~23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 6인(소형 냉장고 보유) 이용 가능\n\n[개별수영장]\n- 운영 기간: 26.06.01~26.09.30\n- 이용 요금: 무료\n- 이용 시간: 09:00~19:00\n- 이용 복장: 수영복, 래쉬가드\n- 수영장 크기: 3m x 5m x 1.1m\n※ 수영장 이용 시 여분 타월을 지참해 주시기 바랍니다.\n※ 유아는 방수기저귀 착용 후 입수 가능합니다.\n※ 고객 부주의로 인한 안전사고는 책임지지 않습니다.\n※ 자녀 안전에 특히 유의 바랍니다.\n※ 안전수칙을 준수해 주시기 바랍니다.\n\n[불멍]\n- 이용 장소: 썬룸, 프라이빗 BAR\n- 이용 요금: 20,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n※ 입실 전 요청 필수\n\n[부대시설]\n[썬룸]\n- 썬룸 최대 4인 이용 가능\n※ 벽난로&불멍 이용 가능\n※ 바베큐 이용 가능\n※ 와인랙 구비\n- 프라이빗 BAR] 불멍 가능, 대형 음료냉장고 이용 가능\n- 1인 홈사우나\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 엘레베이터 미보유\n- OTT 이용 가능\n※ 넷플릭스 이용 가능\n※ OTT 개인계정 필요\n\n- 곤지암도자공원 펜션에서 차량 11분\n- 곤지암리조트 펜션에서 차량 18분\n- 화담숲 펜션에서 차량 20분\n- 율봄식물원 펜션에서 차량 25분\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 3대 가능\n- 전기차 충전기 이용 불가\n\n[교통편]\n- 자가용 이용 시\n※ 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 경기도 광주시 초월읍 대쌍령리 432-114\n- 도로명 주소 : 경기도 광주시 초월읍 진새골길 115-17\n\n- 대중교통 이용 시\n- 초월역- 초월역.롯데아파트역- 광주5번 승차- 진새골종점 하차- 도보13분- 펜션도착\n\n- 주변관광지와의 거리\n- 곤지암도자공원 펜션에서 차량 11분\n- 곤지암리조트 펜션에서 차량 18분\n- 화담숲 펜션에서 차량 20분\n- 율봄식물원 펜션에서 차량 25분",
     "reservationGuide": "- 객실 내 금연이며 고기생선 조리 불가\n- 집기 파손 시 펜션지기에게 알림 필수\n- 퇴실 시 분리수거 및 사용한 주방기구 세척 필수\n- 숲 인접 지역 특성상 벌레 및 낙엽 등이 있을 수 있음",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "chezpompom.com",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1194955",
     "ybsId": "73416",
+    "tripPropertyId": "5834",
+    "partnerType": "distributor_a",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "편의점/매점",
       "주차장",
@@ -424,9 +427,9 @@
       {
         "thumbnail": [
           {
-            "id": "9dd715ce-4d4f-4fef-a7dc-2e1655cdad0e",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/IojndrN40Rcx.jpg",
-            "sortOrder": 0,
+            "id": "0fa84d95-3933-4083-8d98-6b86e2c67088",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/e4aA8uSqtvMG.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -434,25 +437,17 @@
         ],
         "exterior": [
           {
+            "id": "c70b71c7-1b93-4390-95cb-f9b9444bfc57",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/MPcRyWfxEheH.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "fdeaa115-597b-4f23-877a-16999ee236aa",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/v5A7BcrhsRZz.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "0fa84d95-3933-4083-8d98-6b86e2c67088",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/e4aA8uSqtvMG.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "a29a6192-377e-4e53-87d8-a8e8aaf21cdc",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/TjFsxqNUeRSi.jpg",
-            "sortOrder": 2,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -460,7 +455,7 @@
           {
             "id": "722f138b-7df5-4632-968d-0a683f3735d5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/6CNXuSIHg1BQ.jpg",
-            "sortOrder": 3,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -468,14 +463,6 @@
           {
             "id": "037c33e3-e68a-4bae-a2f8-c040d16b1a98",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/69olLK2aJqbt.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "c70b71c7-1b93-4390-95cb-f9b9444bfc57",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/MPcRyWfxEheH.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
@@ -493,6 +480,22 @@
             "id": "2be0fcd5-acde-4d58-a181-9b82912b96ed",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/exsk7hOBtg5U.jpg",
             "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9dd715ce-4d4f-4fef-a7dc-2e1655cdad0e",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/IojndrN40Rcx.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "a29a6192-377e-4e53-87d8-a8e8aaf21cdc",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/TjFsxqNUeRSi.jpg",
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1171,6 +1174,35 @@
                 "description": ""
               },
               "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
             }
           ]
         }
